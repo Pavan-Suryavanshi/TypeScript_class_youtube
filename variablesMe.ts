@@ -1,2 +1,3 @@
-let greetingd: String="Hello Everyone";
-console.log(greetingd);
+let greeting: string = "Hello Everyone";
+let mynum=6;
+console.log(greeting);
